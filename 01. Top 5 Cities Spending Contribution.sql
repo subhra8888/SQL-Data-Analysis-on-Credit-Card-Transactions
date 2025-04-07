@@ -8,4 +8,4 @@ from credit_card_transactions
 group by city)
 select top 5 *, cast(city_wise_sales*1.0/ total_sales * 100 as decimal (10,2)) as percentage
 from cte2, cte
-order by city_wise_sales desc;
+order by percentage desc;
