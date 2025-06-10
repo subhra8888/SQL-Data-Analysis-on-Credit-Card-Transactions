@@ -10,7 +10,7 @@ This project focuses on analyzing credit card transaction data using SQL queries
 - **Customer gender**
 
 ## 🧾 Key Business Queries
-### 1️⃣ Top 5 Cities with Highest Spends and Contribution %
+    1️⃣ Top 5 Cities with Highest Spends and Contribution %
     2️⃣ Highest Spend Month per Card Type
 
 # 🗃️ Dataset
