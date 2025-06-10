@@ -10,5 +10,5 @@ This project focuses on analyzing credit card transaction data using SQL queries
 - **Customer gender**
 
 # 🗃️ Dataset
-[Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
+[Click here to access the SQL dataset](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
 
