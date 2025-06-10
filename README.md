@@ -14,7 +14,7 @@ This project focuses on analyzing credit card transaction data using SQL queries
 - 📝 Window Functions, CTEs, Aggregations, Date Functions
 
 ## 🧾 Key Business Queries
-# 1. Top 5 Cities with Highest Spends and Contribution %
+### 1. Top 5 Cities with Highest Spends and Contribution %
  - Identifies the top 5 cities by total spending.
  - Calculates each city’s contribution percentage of total credit card spends.
 - Highest Spend Month per Card Type
