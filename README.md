@@ -9,6 +9,11 @@ This project focuses on analyzing credit card transaction data using SQL queries
 - **Date and time of transactions**
 - **Customer gender**
 
+## 🛠️ Technologies Used
+- 🗃️ SQL Server
+- 📊 Relational Database Concepts
+- 📝 Window Functions, CTEs, Aggregations, Date Functions
+
 ## 🧾 Key Business Queries
    - Top 5 Cities with Highest Spends and Contribution %
 - Highest Spend Month per Card Type
