@@ -34,5 +34,7 @@ This project focuses on analyzing credit card transaction data using SQL queries
 ### 9. Fastest City to 500 Transactions
  - Identifies which city reached its 500th transaction in the shortest time span after its first transaction.
 
+ ## 🔍 Project Insight
+
 ## 🗃️ Dataset
 [Download Dataset CSV](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
