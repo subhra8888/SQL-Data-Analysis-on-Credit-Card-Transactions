@@ -7,7 +7,6 @@ This project focuses on analyzing credit card transaction data using SQL queries
 - **Card types (Gold, Silver, Platinum, etc.)**
 - **Expense categories**
 - **Date and time of transactions**
-- **Customer gender**
 
 ## 🛠️ Technologies Used
 - 🗃️ SQL Server
