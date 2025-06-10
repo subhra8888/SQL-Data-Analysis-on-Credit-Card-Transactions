@@ -17,14 +17,8 @@ This project focuses on analyzing credit card transaction data using SQL queries
 ### 1. Top 5 Cities with Highest Spends and Contribution %
  - Identifies the top 5 cities by total spending.
  - Calculates each city’s contribution percentage of total credit card spends.
-- Highest Spend Month per Card Type
-- Transaction Record When Each Card Type Reaches ₹1,000,000 in Cumulative Spend
-- City with Lowest % Spend on Gold Cards
-- City-wise Highest and Lowest Expense Types
-- % Contribution of Female Users by Expense Type
-- Card + Expense Type Combo with Highest MoM Growth (Jan-2014)
-- City with Highest Spend-to-Transaction Ratio During Weekends
-- City That Reached 500 Transactions Fastest
+### 2. Highest Spend Month per Card Type
+ - Finds the month with the highest total expense for each credit card type.
 
 ## 🗃️ Dataset
 [Download Dataset CSV](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
