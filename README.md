@@ -35,7 +35,7 @@ This project focuses on analyzing credit card transaction data using SQL queries
  - Identifies which city reached its 500th transaction in the shortest time span after its first transaction.
    
 ## 🔍 Project Insight
- - Top 5 Cities by Spend and Their % Contribution
+### 1. Top 5 Cities by Spend and Their % Contribution
    - Example Output: Greater Mumbai – 14.15%
 
 ## 🗃️ Dataset
