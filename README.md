@@ -33,8 +33,8 @@ This project focuses on analyzing credit card transaction data using SQL queries
  - Compares total weekend spending to the number of weekend transactions to find the most lucrative city.
 ### 9. Fastest City to 500 Transactions
  - Identifies which city reached its 500th transaction in the shortest time span after its first transaction.
-
- ## 🔍 Project Insight
+   
+## 🔍 Project Insight
 
 ## 🗃️ Dataset
 [Download Dataset CSV](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
