@@ -8,3 +8,7 @@ This project focuses on analyzing credit card transaction data using SQL queries
 - **Expense categories**
 - **Date and time of transactions**
 - **Customer gender**
+
+# 🗃️ Dataset
+## 📂 Dataset Name: credit_card_transactions
+
