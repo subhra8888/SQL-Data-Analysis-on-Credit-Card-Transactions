@@ -37,6 +37,18 @@ This project focuses on analyzing credit card transaction data using SQL queries
 ## 🔍 Project Insight
 ### 1. Top 5 Cities by Spend and Their % Contribution
    - Output: Greater Mumbai – 14.15%
-
+### 2. Highest Spend Month by Card Type
+ - Output: Gold Card: Highest spend in January 2015
+### 3. City with Lowest % Spend for Gold Card
+ - Output: Dhamtari contributes only 0.33% of total Gold card spending.
+### 4. City-wise Expense Category Trends
+ - Output: Achalpur – Highest: Grocery, Lowest: Entertainment
+### 5. Highest MoM Growth in Jan-2014 (Card + Expense Type)
+ - Output: Gold + Travel combination showed highest month-over-month growth in Jan 2014, with 0.88% growth
+### 6. Best Weekend Spender City (Spend per Transaction Ratio)
+ - Sonepur has the highest spend-to-transaction ratio on weekends
+### 7. City Fastest to Reach 500 Transactions
+ - Bengaluru hit 500 transactions in just 81 days.
+   
 ## 🗃️ Dataset
 [Download Dataset CSV](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
