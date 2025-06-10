@@ -36,7 +36,7 @@ This project focuses on analyzing credit card transaction data using SQL queries
    
 ## 🔍 Project Insight
 ### 1. Top 5 Cities by Spend and Their % Contribution
-   - Example Output: Greater Mumbai – 14.15%
+   - Output: Greater Mumbai – 14.15%
 
 ## 🗃️ Dataset
 [Download Dataset CSV](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
