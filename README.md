@@ -13,6 +13,5 @@ This project focuses on analyzing credit card transaction data using SQL queries
 [Click here to access the SQL dataset](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
 
 # 📌 Author
-**Subhra Banerjee**
-
-📫 [Connect with me on LinkedIn](https://github.com/subhra8888/SQL-Data-Analysis-on-Credit-Card-Transactions/blob/main/credit_card_transcations.csv)
+**Subhra Banerjee** 
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/subhra-banerjee-8bb88643/)
